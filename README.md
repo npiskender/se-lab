@@ -1,2 +1,2 @@
 # se-lab
-this is the lan
+this is the lab 2
